@@ -1,5 +1,4 @@
 # CampusNavigator
-# react-native-social-media-login
 
 Before starting, you need to set up Android/IOS Environment in your Machine. [You can follow this guide](https://reactnative.dev/docs/environment-setup). 
 
