@@ -39,6 +39,9 @@ Now, you need to build the app in emulator. To do this, run this command in your
   
   ```
   
+  To generate apk
+  https://youtu.be/Wvy8ACbP38I
+  
   
   
   
